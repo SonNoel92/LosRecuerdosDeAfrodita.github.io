@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Estudiante","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":5,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Colin","nickname":"","note":"","profile":""}
+]
