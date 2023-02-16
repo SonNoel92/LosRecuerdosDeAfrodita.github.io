@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"expanded":false,"name":"Templo flotante","order":4,"parentId":4,"scrollX":1092,"scrollY":597.3333333333334},
-{"id":2,"expanded":true,"name":"Lugar donde está Afrodita","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":764},
-{"id":3,"expanded":true,"name":"Lugar donde está Afrodita","order":2,"parentId":2,"scrollX":816,"scrollY":800},
-{"id":4,"expanded":true,"name":"Olimpo","order":3,"parentId":3,"scrollX":1081.3333333333333,"scrollY":800}
-]
